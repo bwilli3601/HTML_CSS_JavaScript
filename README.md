@@ -5,7 +5,7 @@ This repository contains fundamental material for full stack development. It cov
 
 In this lab, wee reviewed HTML basics by creating a web page of a mock recipe. We created a HTML boilerplate and worked with headings, lists, images, and more.
 
-## Theory- HTML Fundamentals
+## Theory- HTML Fundamentals (html_theory_1.html)
 
 In these lessons, you will learn about HTML fundamentals like the div element, the id and class attributes, the HTML boilerplate, HTML entities, and more.
 
@@ -16,3 +16,11 @@ In these lessons, you will learn about HTML fundamentals like the div element, t
 * What Are HTML Entities, and What Are Some Common Examples?
 
 * What Is the Role of the Script Element in HTML, and How Can It Be Used to Link to External JavaScript Files?
+
+## Theory- HTML SEO (html_SEO_1.html)
+
+In these lessons, you will learn how your HTML code impacts search engine optimization.
+
+* What Is the Role of the Meta Description, and How Does It Affect SEO?
+
+* What Is the Role of Open Graph Tags, and How Do They Affect SEO?
