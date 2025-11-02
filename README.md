@@ -30,3 +30,9 @@ In these lessons, we learned how your HTML code impacts search engine optimizati
 In this lab, we reviewed working with HTML fundamentals by creating a web page for a travel agency. We worked with images, the figure element, the figcaption element, the anchor element, and more.
 
 * Built a Travel Agency Page
+
+## Theory- Working with Audio and Video Elements (html_AV_1.html)
+
+In these lessons, you will learn how to work with the audio and video elements.
+
+* What Are the Roles of the HTML Audio and Video Elements, and How Do They Work?
