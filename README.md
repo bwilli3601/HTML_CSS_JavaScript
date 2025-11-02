@@ -42,3 +42,13 @@ In these lessons, you will learn how to work with the audio and video elements.
 In this lab, you will build an HTML audio and video player using the video and audio elements with controls and source attributes.
 
 * Build an HTML Audio and Video Player
+
+## Theory- Working with Images and SVGs (html_SVG_1.html)
+
+In these lessons, you will learn how to work with SVGs and learn about techniques for optimizing your images.
+
+* What Are Common Ways to Optimize Media Assets?
+
+*What Are the Different Types of Image Licenses, and How Do They Work?
+
+* What Are SVGs, and When Should You Use Them?
