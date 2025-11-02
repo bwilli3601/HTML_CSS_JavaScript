@@ -52,3 +52,7 @@ In these lessons, you will learn how to work with SVGs and learn about technique
 *What Are the Different Types of Image Licenses, and How Do They Work?
 
 * What Are SVGs, and When Should You Use Them?
+
+## Workshop- Building a Heart Icon
+
+In this workshop, you will practice working with SVGs by building a heart icon.
