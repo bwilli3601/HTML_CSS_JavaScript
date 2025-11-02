@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>HTML Audio and Video Lab</title>
+</head>
+<body>
+<h1>HTML Audio and Video Lab</h1>
+<section>
+  <h2>Video Example</h2>
+  <!--Inside the video element, you should have a source element. The source element 
+  should have a src attribute pointing to a video file. The source element should have a 
+  type attribute-->
+
+  <video
+    poster="https://peach.blender.org/wp-content/uploads/title_anouncement.jpg?x11217"
+    loop
+    controls
+    width="640"
+  >
+<source src="https://cdn.freecodecamp.org/curriculum/labs/what-is-the-map-method-and-how-does-it-work.mp4" type="video/mp4" />
+</video>
+</section>
+<section>
+  <h2>Audio Example</h2>
+  <audio
+    src="https://cdn.freecodecamp.org/curriculum/js-music-player/sailing-away.mp3"
+    controls
+    loop
+  ></audio>
+</section>
+</body>
+</html>

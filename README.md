@@ -36,3 +36,9 @@ In this lab, we reviewed working with HTML fundamentals by creating a web page f
 In these lessons, you will learn how to work with the audio and video elements.
 
 * What Are the Roles of the HTML Audio and Video Elements, and How Do They Work?
+
+## LAB- Build an HTML Audio and Video Player (AV_player.html)
+
+In this lab, you will build an HTML audio and video player using the video and audio elements with controls and source attributes.
+
+* Build an HTML Audio and Video Player
