@@ -53,6 +53,18 @@ In these lessons, you will learn how to work with SVGs and learn about technique
 
 * What Are SVGs, and When Should You Use Them?
 
-## Workshop- Building a Heart Icon
+## Workshop- Building a Heart Icon (SVG_heart.html)
 
 In this workshop, you will practice working with SVGs by building a heart icon.
+
+## Theory- Working with the iframe Element (iframe_1.html)
+
+In these lessons, you will learn how to work with the iframe element which is used to embed an external site on your web page.
+
+* What Are Replaced Elements, and What Are Some Examples?
+
+* How Do You Embed Videos onto Your Page Using the iframe Element?
+
+## Workshop- Build a Video Display Using iframe (iframe_1.html)
+
+In this workshop, you'll learn how to work with the iframe element by building a video display.
