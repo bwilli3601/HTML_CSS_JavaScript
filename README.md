@@ -68,3 +68,9 @@ In these lessons, you will learn how to work with the iframe element which is us
 ## Workshop- Build a Video Display Using iframe (iframe_1.html)
 
 In this workshop, you'll learn how to work with the iframe element by building a video display.
+
+## LAB- Build a Video Compilaiton Page (video_page.html)
+
+In this lab, you'll create a video compilation web page. You'll practice working with the iframe element.
+
+* Build a Video Compilation Page
