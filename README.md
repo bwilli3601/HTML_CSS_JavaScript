@@ -74,3 +74,15 @@ In this workshop, you'll learn how to work with the iframe element by building a
 In this lab, you'll create a video compilation web page. You'll practice working with the iframe element.
 
 * Build a Video Compilation Page
+
+## Theroy- Working with Links (link_1.html)
+
+In these lessons, you will learn about links, the target attribute, different link states, absolute, and relative paths, and more.
+
+* What Are the Different Target Attribute Types, and How Do They Work?
+
+* What Is the Difference Between Absolute and Relative Paths?
+
+What Is the Difference Between Slashes, a Single Dot, and Double Dot in Path Syntax?
+Not Passed
+What Are the Different Link States, and Why Are They Important?
