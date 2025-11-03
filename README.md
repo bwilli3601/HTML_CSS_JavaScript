@@ -86,3 +86,45 @@ In these lessons, you will learn about links, the target attribute, different li
 What Is the Difference Between Slashes, a Single Dot, and Double Dot in Path Syntax?
 Not Passed
 What Are the Different Link States, and Why Are They Important?
+
+## Theory- Importance of Semantic HTML (semantic.html)
+
+In these lessons, you will learn about semantic HTML and why you should care about it, semantic elements, how semantic HTML differs from presentational HTML, and more.
+
+* Why Should You Care About Semantic HTML?
+
+* Why is it Important to Have Good Structural Hierarchy?
+
+* What Is the Difference Between Presentational and Semantic HTML?
+
+## Theory- Understanding Nuanced Semantic Elements (semantic.html)
+
+In these lessons, you will learn when you should use certain semantic elements like the em element over the i element, description lists, and more.
+
+* When Should You Use the Emphasis Element Over the Idiomatic Text Element?
+
+* When Should You Use the Strong Element Over the Bring Attention To Element?
+
+* What Are Description Lists, and When Should You Use Them?
+
+## Theory- Working with Text and Time Semantic Elements (semantic.html)
+
+In this lesson, you will learn about the importance of semantics in conveying meaning for text and time-related content including the time, blockquote elements and more.
+
+* How Do Block and Inline Quotes Work in HTML?
+
+* How Do You Display Abbreviations in HTML?
+
+* How Do You Display Addresses in HTML?
+
+* How Do You Display Times and Dates in HTML?
+
+## Theory- Working with Specialized Semantic Elements (sematic.html)
+
+In this lesson, you will learn about specialized semantic elements like u, s, code elements and more.
+
+* How Do You Display Mathematical Equations and Chemical Formulas in HTML?
+
+* How Do You Represent Computer Code in HTML?
+
+* What Are the U, S, and Ruby Elements Used For, and How Do They Work?
