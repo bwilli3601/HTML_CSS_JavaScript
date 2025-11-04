@@ -215,3 +215,7 @@ In these lessons, you will learn about how to create accessible tables and forms
 * What Are Best Practices for Tables and Accessibility?
 
 * Why Is It Important for Inputs to Have an Associated Label?
+
+## Workshop- Build a Tech Canference Schedule Table (schedule.html)
+
+In this workshop, you will build an accessible tech conference schedule table.
