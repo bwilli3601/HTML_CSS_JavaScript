@@ -107,6 +107,9 @@ In these lessons, you will learn when you should use certain semantic elements l
 
 * What Are Description Lists, and When Should You Use Them?
 
+## Workshop- Build a List of Major Web Browsers (web_list.html)
+
+
 ## Theory- Working with Text and Time Semantic Elements (semantic.html)
 
 In this lesson, you will learn about the importance of semantics in conveying meaning for text and time-related content including the time, blockquote elements and more.
@@ -118,6 +121,8 @@ In this lesson, you will learn about the importance of semantics in conveying me
 * How Do You Display Addresses in HTML?
 
 * How Do You Display Times and Dates in HTML?
+
+## Workshop- Build Quincy's Job Tips Page (job.html)
 
 ## Theory- Working with Specialized Semantic Elements (sematic.html)
 
@@ -164,3 +169,21 @@ In this lab, you'll review HTML forms by creating a survey form.
 You'll practice working with the label element, the different input elements, the required attribute, and more.
 
 * Build a Survey Form
+
+## Theory- Working wit Tables (tables.html)
+
+In these lessons, you will learn about HTML tables, how to create them, and when to use them.
+
+* What Are HTML Tables Used For, and What Should They Not Be Used For?
+
+## Workshop- Build a Final Exams Table (exam.html)
+
+In this workshop, you will practice working with HTML tables by building a table of final exams.
+
+## LAB- Build a Book Catalog Table (book_table.html)
+
+In this lab, you'll review HTML tables by building a book information table.
+
+You'll practice the different table components like the thead, tbody, th, tr, and td elements.
+
+* Build a Book Catalog Table
