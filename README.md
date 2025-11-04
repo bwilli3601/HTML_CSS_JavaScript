@@ -187,3 +187,31 @@ In this lab, you'll review HTML tables by building a book information table.
 You'll practice the different table components like the thead, tbody, th, tr, and td elements.
 
 * Build a Book Catalog Table
+
+## Theory- Importance of Accessibility and Good HTML Structure (accessibility.html)
+
+In these lessons, you will learn about accessibility and its importance, assistive tools for people with disabilities, HTML attributes that let you create inclusive websites, accessibility best practices, and much more.
+
+* What Is Accessibility?
+
+* What Are Screen Readers, and Who Uses Them?
+
+* What Are Large Text or Braille Keyboards, and Who Uses Them?
+
+* What Are Alternative Pointing Devices Such as Trackballs, Joysticks, and Touchpads Used For?
+
+* What Are Screen Magnifiers Used For?
+
+* What Is Voice Recognition Software Used For?
+
+* What Are Some Common Accessibility Auditing Tools to Use?
+
+* How Does Proper Heading Level Structure Affect Accessibility?
+
+## Theory- Working with Accessible Tables and Forms (accessibility.html)
+
+In these lessons, you will learn about how to create accessible tables and forms.
+
+* What Are Best Practices for Tables and Accessibility?
+
+* Why Is It Important for Inputs to Have an Associated Label?
