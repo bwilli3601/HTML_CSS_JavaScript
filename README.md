@@ -157,4 +157,10 @@ In this workshop, you will build a Hotel Feedback Form.
 
 You will practice working with labels, inputs, fieldsets, legends, textareas and buttons.
 
+## LAB- Build a Survey Form (survey_form.html)
 
+In this lab, you'll review HTML forms by creating a survey form.
+
+You'll practice working with the label element, the different input elements, the required attribute, and more.
+
+* Build a Survey Form
