@@ -128,3 +128,33 @@ In this lesson, you will learn about specialized semantic elements like u, s, co
 * How Do You Represent Computer Code in HTML?
 
 * What Are the U, S, and Ruby Elements Used For, and How Do They Work?
+
+## Build a Cat Blog Page (cat_blog.html)
+
+In this workshop, you will build an HTML only blog page using semantic elements including the main, nav, article and footer elements.
+
+## LAB- Build an Event Hub (event_hub.html)
+
+In this lab, you'll build an event hub and review semantic elements like header, nav, article, and more.
+
+* Build an Event Hub
+
+## Theory- Working with Forms (forms.html)
+
+In these lessons, you will learn about forms, the role of labels, inputs and buttons in creating forms, client-side form validation, and form states.
+
+* How Do Forms, Labels, and Inputs Work in HTML?
+
+* What Are the Different Types of Buttons, and When Should You Use Them?
+
+* What Is Client-Side Form Validation in HTML Forms, and What Are Some Examples?
+
+* What Are the Different Form States, and Why Are They Important?
+
+## Workshop- Build a Hotel Feedback Form (hotel_form.html)
+
+In this workshop, you will build a Hotel Feedback Form.
+
+You will practice working with labels, inputs, fieldsets, legends, textareas and buttons.
+
+
