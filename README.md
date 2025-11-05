@@ -219,3 +219,33 @@ In these lessons, you will learn about how to create accessible tables and forms
 ## Workshop- Build a Tech Canference Schedule Table (schedule.html)
 
 In this workshop, you will build an accessible tech conference schedule table.
+
+## Teory- Introduction to ARIA (aria.html)
+
+In these lessons, you will learn about working with ARIA roles.
+
+* What Is the Purpose of WAI-ARIA, and How Does It Work?
+
+*What Are ARIA Roles?
+
+*What Are the Roles of the aria-label and aria-labelledby Attributes?
+
+*What Is the aria-hidden Attribute, and How Does It Work?
+
+*What Is the aria-describedby Attribute, and How Does It Work?
+
+## LAB- Build a Checkout Page (checkout.html)
+
+In this lab, you'll create an accessible checkout page.
+
+You'll practice concepts like alt attributes and ARIA roles.
+
+* Build a Checkout Page
+
+## LAB- Design a Movie Review Page (movie.html)
+
+In this lab, you'll create a movie review page.
+
+You'll practice concepts like semantic HTML, alt attributes, accessible lists, and hiding decorative content from screen readers using aria-hidden.
+
+* Design a Movie Review Page

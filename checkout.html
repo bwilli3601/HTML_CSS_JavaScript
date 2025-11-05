@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Checkout Page</title>
+</head>
+
+<body>
+    <h1>Checkout</h1>
+    <section>
+<h2>Your Cart</h2>
+<img src="https://cdn.freecodecamp.org/curriculum/labs/cube.jpg" alt="Product 1 Image" />
+    </section>
+    <section> 
+        <h2>Payment Information</h2>
+        <form>
+            <!--You should include a span element with the text * and aria-hidden 
+            set to true inside the label element for each required input, so that 
+            required fields are visually indicated.-->
+            <label for="card-name">Name on Card <span aria-hidden="true">*</span></label>
+            <input type="text" id="card-name" name="card-name" required />
+            <br />
+            <label for="card-number">Card Number <span aria-hidden="true">*</span></label>
+            <input type="text" id="card-number" name="card-number" aria-describedby="card-number-help" required />
+        
+            <p id="card-number-help" >Enter a 16-digit card number without spaces or dashes.</p>
+            
+    </section>
+    </form>
+
+</body>
+
+</html>
