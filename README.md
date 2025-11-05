@@ -249,3 +249,11 @@ In this lab, you'll create a movie review page.
 You'll practice concepts like semantic HTML, alt attributes, accessible lists, and hiding decorative content from screen readers using aria-hidden.
 
 * Design a Movie Review Page
+
+## LAB- Build a Multimedia Player
+
+In this lab, you'll build a multimedia player.
+
+You will practice working with the audio and video elements, the controls attribute, and the aria-label attribute.
+
+* Build a Multimedia Player
